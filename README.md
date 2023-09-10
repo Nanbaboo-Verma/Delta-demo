@@ -1,2 +1,2 @@
 # Delta-demo
-This is only demo for learning
+This is only demo for learning.
